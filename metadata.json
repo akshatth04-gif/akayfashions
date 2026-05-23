@@ -1,0 +1,6 @@
+{
+  "name": "AkayFashions",
+  "description": "Modern, premium fashion store with AI outfit recommendations, virtual styling try-ons, and automated chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
